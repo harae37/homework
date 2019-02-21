@@ -1,0 +1,28 @@
+# 5 Ideas
+
+### 1. Iris / fingerprint recognition
+
+Iris scanning uses an algorithm to create a barcode out of the iris's random features. The scanning is usually done with an infrared camera. The camera scans the pattern of the iris, and isolates it, and the data is put in a system of coordinates which is then turned into barcode, which becomes the iris signature.
+
+Fingerprint reading uses the conductivity of below humans' skin. The scanner is consisted of many tiny conductive plates which reacts to the conductivity of a finger. When a finger touches the scanner, the sensors read which portion of the finger ridges are touching. Other methods include using optical scanners that use visible light, and ultrasonic readers. Fingerprint reading is now commonly used for personal identification on personal devices, and in apartments and airports.
+
+
+### 2. Wireless charging
+
+Wireless charging is power delivery not needing wires to connect the power source and the electronic device. The most common form of wireless charging, which is used for charging mobile devices is inductive charging. The main idea of inductive coupling was discovered a long time ago in the late 1800s, but it was only recently when it became available at customer level due to the limits in electronic technology. The inductive charger requires the AC current from the wall, an electronic oscillator circuit, and transmitting coil. The coil, which is made out of copper material, produces a magnetic flow when alternating current goes through. The number of turns or the thickness etc. of the coil impacts the density of the flow. In the device which gets charged, a same type of coil is embedded into the charging circuit, and picks up the alternating magnetic field and induces it, then passed through a power rectifier and stabilizer which then is turned into power that the phone can use as battery.
+
+
+### 3. 3D scanning / printing
+
+Object is placed, and camera(s) that can look around the whole object shoots the object. For each image, a 3D mesh is created, and with the data from different angles combined, it creates the 3D model. It can be up to the camera/scanner's function to detect the shape of the object, or a program's.
+
+Once the object has been modeled in a program in complete 3D model, a 3D printer can print it in layers of melted plastic (or other 3D printing materials), and cooling them immediately.
+
+
+### 4. Speech / language / voice recognition
+
+When we use speech recognition, the raw audio waveform is taken in via microphone, and the waveforms are cut in very tiny segments, and identifies which phoneme was said in each piece. Each identified phoneme is stitched together into the most likely word. Until a few years ago, the features were hand-engineered, but after the neural networks were developed, they learned features and the inner features and so on, making the speech/language recognition work much faster and more efficient.
+
+### 5. Hyperloop trains
+
+Hyperloop is a super fast train that can travel between cities in fastest speed. The train would travel in a vacuum tube, so no friction and air resistance. It also uses magnetic levitation technology, making it able to float and travel even faster. Safety is still being worked on, but it is already being built in some places and soon will be accessible.
