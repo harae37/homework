@@ -1,0 +1,12 @@
+# W5 Assignment: The Internet
+
+
+The Internet has a very complicated history, and was gradually developed with effort of numerous people, not just by a single person/company. Internet itself means a network of networks. The very first idea of this communication network was already stated in 1934 by Paul Otlet, who imagined a collection of information that could be accessed from all over the world. But the actual technology for the network was further developed when the US tried to win the Space Race with the Soviet Union. Advanced Research Projects Agency (ARPA) was established, and in their effort to send a person to the moon and create an intergalactic network, 'packet switching' was invented; dividing information into blocks and sending them in different paths, and putting them back together on the destination. ARPA used this technology to create the first packet-switching network, the ARPANET. More packet-switching networks were developed around the world, but the problem was that they couldn't communicate to each other. So Robert Kahn and Viton Cerf established the Transfer Control Protocol/Internet Protocol (TCP/IP) to let the different networks be able to communicate with each other. This connected the world's internet. When this happened, all the functions of the internet that we think of now was developed, like the online community systems. All these information communication was done through physical wires around the world. The wireless network was invented based on Hedy Lamarr's communication system that is of radio signals hopping frequencies. The technology was further developed, and in 1971 in the University of Hawaii, they first succeeded in using this method and communicate simultaneously with other computers, creating the first wireless network.
+
+
+---
+
+### Sources:
+
+100 Ideas that changed the WEB
+https://youtu.be/21eFwbb48sE
