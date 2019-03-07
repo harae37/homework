@@ -1,0 +1,40 @@
+# 101 idea research : Speech recognition
+
+Speech recognition is a technology that enables a computer to take the audio input and process it into written language which it can understand, and further providing expected output in a broad sense.
+The way speech recognition functions is that audio input is transformed into waves, and that wave is chopped into tiny pieces in units of phonemes. Then using algorithms, the phonemes are put together into a likely word. These words are then assembled in a language context using the machine's language understanding. Depending on what it is being used for, the next steps may involve other technologies.
+
+The first speech recognition was made in the Bell Laboratories in 1952.
+This very first version however, could only understand numbers spoken by one person.
+The Harpy System developed by Bruce Lowerre and Raj  Raddy in Carnegie Mellon University in the 1970s could recognize about thousand words spoken by different people, using the pronunciation network.
+ In the 1980s, with the Hidden Markov Model's invention, voice recognition became almost like the today's technology.
+
+ The Harpy System is what constitutes the frame of speech recognition.
+ The first Harpy system accepted connected speech from 5 speakers with a vocabulary of 1011 words and 95% accuracy in semantics. It also requires 28 computing processes, which is a tenth of the set goal.
+The system's main roles are to represent the speech into text, and search.
+The audio input is divided into phonemes, and each phonemes' acoustic waveforms are put into the finite state graph structure where each audio segment's possible phonemes are networked. Each pronunciation network comes together into word network, and the networks compile.
+In the process of all these networks compiling, the overlapping ones are eliminated and the one found to be not what it is is discarded.
+Once the process reaches its final phoneme, it goes through a back trace. The back trace doesn't have to go through other options that weren't correct, so the accuracy rises.
+
+Hidden Markov Model 
+
+### Connected Technologies
+
+machine learning, noise correction, human-machine relation, user analysis (speech habit), voice assistants (Siri, Alexa etc.) translation
+
+
+---
+##### Sources
+
+The Future of Voice-Enabled Technology | KPMGVoice | Forbes https://youtu.be/KNfZensJZe4 Behind the Mic: The Science of Talking with Computers https://youtu.be/yxxRAHVtafI
+Patricia Scanlan: "We Need to Talk about Voice Technology Systems & Children" | Talks at Google https://youtu.be/tMauOcRESgY
+How Computers Understand Language https://youtu.be/y9o6c5lTpgI
+Harpy: Speech Recongnition 1976 CMU https://youtu.be/N3i6NoUZsSw
+
+
+Hidden Markov Model
+
+https://www.cs.ubc.ca/~murphyk/Bayes/rabiner.pdf
+http://web.science.mq.edu.au/~cassidy/comp449/html/ch12s02.html
+https://www.quora.com/What-is-a-simple-explanation-of-the-Hidden-Markov-Model-algorithm/answer/Deepthi-Sen?share=1&srid=ObLE
+http://www.cs.cmu.edu/~roni/10601-slides/hmm-for-asr-whw.pdf
+https://www.quora.com/What-is-a-hidden-Markov-Model-HMM-and-how-can-it-be-used-in-speech-recognition
