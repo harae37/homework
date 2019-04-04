@@ -1,6 +1,6 @@
 # Speech Recognition Research
 
-![Research] (Research.img)
+![Research] (Research.jpg)
 
 [Link to other file](idea101.md)
 
