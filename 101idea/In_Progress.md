@@ -1,11 +1,16 @@
-### Title (provisional): Go on, I'm listening...
 
-![In_Progress](In_Progress.img)
+# In progress
 
-[Link to other file](idea101.md)
+![In_Progress](In_Progress.jpg)
+
+[Idea101](idea101.md)
 
 
-- Date: April 3, 2019
-- Description: 
+- Date: May 4, 2019
+- Description:
+May 4th, 2019 / Adobe Indesign / US Letter
+May 4th, 2019 / Adobe Premiere Pro / 00:09:17
 
-This piece is planned to be vector illustration of everyday manifesting of speech recognition. I chose to make a vector illustration because of the connotation this style brings. Graphic vector illustrations are very common in our daily lives these days, and it also brings a sense of reliance to the subject matter of the illustration because of the neatness of the style and the professional qualities it requires. I thought that this would be a perfect match to express speech recognition, because even though speech recognition is around us all the time we don't realize it in a significant way. I think both the tech and this style of work carry out their roles in a subtle way and helps adding richness to the experience of technology and art in our daily lives.
+
+Most of my works are precisely planned out on digitally whatever the actual result’s form may be, and so was this work. I experimented with text placement and typography, and with audio.
+Since this piece are visually simple looking, I chose to show a screenshot of an in-progress work since it would be too revealing if it was a video or other form.
